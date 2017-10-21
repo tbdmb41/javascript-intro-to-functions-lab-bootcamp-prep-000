@@ -9,3 +9,6 @@ function whisper(string) {
 function sayHiToGrandma(string) {
   return ('YESINDEED').tolowercase()
 }
+function shout(string) {
+  console.log(toUpperCase)
+}
